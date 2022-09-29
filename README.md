@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/idrak-sheikh-5289991b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idrak-sheikh-5289991b2" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/idraksheikh333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="idraksheikh333" height="30" width="40" /></a>
-  <a href="https://leetcode.com/idraksheikh333/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSdwdLpZzehcdyRIBHp-K4oZwOvFAwBnDZkDpjsrHlvg&s" alt="idraksheikh333" height="30" width="40" /></a>
+  <a href="https://leetcode.com/idraksheikh333/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkFZj9cad9A2TCUszdGWFIoLsQXeSjxcbqSwzOgjOLQ&s" alt="idraksheikh333" height="30" width="40" /></a>
 
 </p>
 
