@@ -1,5 +1,5 @@
 
-[![@idraksheikh's Holopin board][(https://holopin.me/idraksheikh]](https://www.holopin.io/@idraksheikh))
+[![@idraksheikh's Holopin board](https://holopin.me/idraksheikh)](https://www.holopin.io/@idraksheikh))
 <h1 align="center">Hey 👋, I'm Idrak Sheikh</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
