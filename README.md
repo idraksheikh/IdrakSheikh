@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/idrak-sheikh-5289991b2" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RYeN56EvozwyyxYGDw4dTu-pbUZyNxnF93zSLUcOlQ&s" alt="idrak-sheikh-5289991b2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/idraksheikh333" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZMvqDl7_zzEPw8IrH3C78Z7eyDWQuWxJbPTQRa7HRkIlWTAbZcRHBgwLZc3-_6e0XF8&usqp=CAU" alt="idraksheikh333" height="30" width="40" /></a>
-  <a href="https://leetcode.com/idraksheikh333/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkFZj9cad9A2TCUszdGWFIoLsQXeSjxcbqSwzOgjOLQ&s" alt="idraksheikh333" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/idrak-sheikh-5289991b2" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RYeN56EvozwyyxYGDw4dTu-pbUZyNxnF93zSLUcOlQ&s" alt="idrak-sheikh-5289991b2" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/idraksheikh333" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZMvqDl7_zzEPw8IrH3C78Z7eyDWQuWxJbPTQRa7HRkIlWTAbZcRHBgwLZc3-_6e0XF8&usqp=CAU" alt="idraksheikh333" height="30" width="30" /></a>
+  <a href="https://leetcode.com/idraksheikh333/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkFZj9cad9A2TCUszdGWFIoLsQXeSjxcbqSwzOgjOLQ&s" alt="idraksheikh333" height="30" width="30" /></a>
 
 </p>
 
