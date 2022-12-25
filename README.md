@@ -29,7 +29,7 @@
 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  ![image](https://user-images.githubusercontent.com/60965415/209458266-e7925dea-03b1-462d-abdc-f937341e615a.png)    </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/60965415/209458266-e7925dea-03b1-462d-abdc-f937341e615a.png" alt=javascript width="40" height="40">    </a>  
 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   
 
