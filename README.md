@@ -1,15 +1,15 @@
-
+<!--
 [![@idraksheikh's Holopin board](https://holopin.me/idraksheikh)](https://www.holopin.io/@idraksheikh)
 <h1 align="center">Hey 👋, I'm Idrak Sheikh</h1>
 <h3 align="center">A Software Engineer | Web & Mobile Application Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=idraksheikh&label=Profile%20views&color=0e75b6&style=flat" alt="idraksheikh" /> </p> -->
 
- 
 
 
 
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/idrak-sheikh-5289991b2" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RYeN56EvozwyyxYGDw4dTu-pbUZyNxnF93zSLUcOlQ&s" alt="idrak-sheikh-5289991b2" height="40" width="40" /></a>
@@ -30,4 +30,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=idraksheikh&show_icons=true&locale=en" alt="idraksheikh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idraksheikh&" alt="idraksheikh" /></p>
-
+-->
