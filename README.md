@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idraksheikh&" alt="idraksheikh" /></p>
 -->
-<div style="display:flex;">
+<div style="display:flex; flex-wrap:nowrap;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idraksheikh&show_icons=true&locale=en&layout=compact" alt="idraksheikh" />
 <img src="https://github-readme-stats.vercel.app/api?username=idraksheikh&show_icons=true&locale=en" alt="idraksheikh" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=idraksheikh&" alt="idraksheikh" />
