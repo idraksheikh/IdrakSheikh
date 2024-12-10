@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Idrak Sheikh</h1>
-<h3 align="center">A Mobile App Developer worked on .Net MAUI and Flutter</h3>
+<h3 align="center">A mobile app developer with experience in .NET MAUI and Flutter.</h3>
 <!--
 [![@idraksheikh's Holopin board](https://holopin.me/idraksheikh)](https://www.holopin.io/@idraksheikh)
 <h1 align="center">Hey 👋, I'm Idrak Sheikh</h1>
