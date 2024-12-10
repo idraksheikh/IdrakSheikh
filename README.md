@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Idrak Sheikh</h1>
-<h3 align="center">Software Engineer | Android Developer | Cross-Platform Apps Developer |</h3>
+<h3 align="center"> Software Engineer | Android Developer | Cross-Platform Apps Developer </h3>
 <!--
 [![@idraksheikh's Holopin board](https://holopin.me/idraksheikh)](https://www.holopin.io/@idraksheikh)
 <h1 align="center">Hey 👋, I'm Idrak Sheikh</h1>
