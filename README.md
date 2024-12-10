@@ -1,3 +1,9 @@
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=idraksheikh&show_icons=true&locale=en&layout=compact" alt="idraksheikh" style="max-width: 100%; height: auto;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=idraksheikh&show_icons=true&locale=en" alt="idraksheikh"  style="max-width: 100%; height: auto;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=idraksheikh&" alt="idraksheikh"  style="max-width: 100%; height: auto;"/>
+</div>
+
 <!--
 [![@idraksheikh's Holopin board](https://holopin.me/idraksheikh)](https://www.holopin.io/@idraksheikh)
 <h1 align="center">Hey 👋, I'm Idrak Sheikh</h1>
@@ -31,8 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idraksheikh&" alt="idraksheikh" /></p>
 -->
-<div style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=idraksheikh&show_icons=true&locale=en&layout=compact" alt="idraksheikh" style="max-width: 100%; height: auto;"/>
-<img src="https://github-readme-stats.vercel.app/api?username=idraksheikh&show_icons=true&locale=en" alt="idraksheikh"  style="max-width: 100%; height: auto;"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=idraksheikh&" alt="idraksheikh"  style="max-width: 100%; height: auto;"/>
-</div>
+
