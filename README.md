@@ -1,5 +1,8 @@
 <h1 align="center">Hey 👋, I'm Idrak Sheikh</h1>
 <h3 align="center">A mobile app developer with experience in .NET MAUI and Flutter.</h3>
+![My GitHub stats](https://github-readme-stats-peach-kappa-40.vercel.app/api/?username=idraksheikh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![Top Langs](https://github-readme-stats-peach-kappa-40.vercel.app/api/top-langs/?username=idraksheikh&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <!--
 [![@idraksheikh's Holopin board](https://holopin.me/idraksheikh)](https://www.holopin.io/@idraksheikh)
 <h1 align="center">Hey 👋, I'm Idrak Sheikh</h1>
