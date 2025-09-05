@@ -6,5 +6,5 @@
 
 <h3 align="center"> <b>.NET Developer | ASP.NET Core | .NET MAUI</b> </h3>
 
-<p align="center">I'm passionate about building modern, scalable, and user-friendly applications using the **.NET ecosystem**.  
+<p align="center">I'm passionate about building modern, scalable, and user-friendly applications using the <b>.NET ecosystem</b>.  
 Whether it's <b>cross-platform apps with MAUI</b> or <b>robust backends with ASP.NET Core</b>, I love crafting solutions that solve real-world problems.  </p>
